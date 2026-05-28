@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: Houston_ug_demoProject
+runtimes:
+- runtimeAlias: mir_sc_transportation_ert
+  assets:
+  - name: fld_111480121_stage00.projects.fl59109b198a3d441bb1a7f2d126d65946.integrations:process4010850ToCanonicalXML
+    type: flow
+    stepId: /0/17
+    reference: fld_111480121_stage00.projects.fl59109b198a3d441bb1a7f2d126d65946.WmPackageServiceProvider.backendservices:writeFileToSFTP
