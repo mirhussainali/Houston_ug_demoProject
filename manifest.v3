@@ -11,18 +11,19 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="MirsWmUtils">1.0</value>
+    <value name="SupplyChain">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">19-05-2026 20:43:39 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-05-28T15:55:30.279935495Z</value>
+  <value name="lastUpdated">2026-05-28T15:57:47.181940641Z</value>
   <value name="wmProjectId">fl59109b198a3d441bb1a7f2d126d65946</value>
   <value name="creator">Mir Hussain Ali</value>
 </Values>
